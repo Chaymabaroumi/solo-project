@@ -82,28 +82,11 @@
     right: -10px;
     transition: 0.5s;
   }
-   
-  .apromo:hover:after {
-    opacity: 1;
-    right: 10px;
-  }
-  #container {
-    width: 100%;
-    overflow: hidden;
-  }
-  #promotion {
-    margin-top: -36px;
-  }
-  #promotion div {
-    margin: 0 0 20px 10px;
-    font-size: 20px;
-  }
   .imgpromo {
     width: 50%;
     height: 400px;
     display: none;
     align-items: center;
-
   margin-left: auto;
   margin-right: auto;
 
@@ -139,7 +122,6 @@
 
 #section-product {
     display: flex;
-    /* gap: 300px; */
     padding: 34px 50px 48px 48px;
     text-align: center;
 }
